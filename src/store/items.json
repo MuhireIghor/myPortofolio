@@ -1,0 +1,20 @@
+[
+    {
+    "id":1,
+    "name":"Banana",
+    "price":200,
+    "imgUrl":"../../public/imgs/index.jpg"
+},
+    {
+    "id":2,
+    "name":"Mac Book Pro",
+    "price":400,
+    "imgUrl":"../../public/imgs/mac.jpg"
+},
+    {
+    "id":3,
+    "name":"Book",
+    "price":600,
+    "imgUrl":"../../public/imgs/book.jpg"
+}
+]
